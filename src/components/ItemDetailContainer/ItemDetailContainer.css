@@ -1,0 +1,27 @@
+.item-detail-container{
+    padding: 120px 20px 0 20px;
+    height: 100vh;
+}
+
+.tarjeta-detail{
+    border: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    height:500px;
+}
+
+.tarjeta-detail img{
+    width: 25rem;
+}
+
+.tarjeta-detail .titulo{
+    font-size: 3rem;
+    margin: 10px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px black;
+}
+

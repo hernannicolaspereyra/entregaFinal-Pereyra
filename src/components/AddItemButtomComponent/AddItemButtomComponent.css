@@ -1,0 +1,16 @@
+.boton-agregar button{
+    width: 300px;
+    background-color: white;
+    color: rgb(50, 216, 31);
+    border: 2px solid rgb(50, 216, 31);
+    border-radius: 10px;
+    padding: 4px;
+    transition: .2s;
+}
+
+.boton-agregar button:hover{
+    border: 2px solid white;
+    color: white;
+    background-color: rgb(50, 216, 31);
+    transition: .2s;
+}
